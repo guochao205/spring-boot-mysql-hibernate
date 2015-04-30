@@ -1,0 +1,7 @@
+com\spatil\Application.class
+com\spatil\service\UserService.class
+com\spatil\config\DatabaseConfig.class
+com\spatil\service\UserServiceImpl.class
+com\spatil\beans\User.class
+com\spatil\dao\UserDao.class
+com\spatil\dao\UserDaoImpl.class
